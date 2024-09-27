@@ -1,3 +1,8 @@
+// Alexis Jennar Gonzaga
+// CSC 321
+// 9-17-24 originally
+// Lab#4b
+
 #include <stdio.h>
 #include <stdlib.h>
 
